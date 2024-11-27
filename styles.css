@@ -56,3 +56,6 @@ body, html {
  background-color: #e65b50; /* Darker shade for hover */
 }
 
+.h1{
+ font-weight: bold;
+}
