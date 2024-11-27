@@ -60,6 +60,12 @@ h1{
  font-weight: bold;
  letter-spacing: 2px;
 }
+.header{
+ font-weight: bold;
+ letter-spacing: 0%;
+ display: flex;
+ justify-content: center;
+}
 #header{
  background-color: black;
  color:white;
