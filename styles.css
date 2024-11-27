@@ -56,11 +56,11 @@ body, html {
  background-color: #e65b50; /* Darker shade for hover */
 }
 
-.h1{
+h1{
  font-weight: bold;
  letter-spacing: 2px;
 }
-.header{
+#header{
  background-color: black;
  color:white;
 
