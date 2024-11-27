@@ -58,4 +58,10 @@ body, html {
 
 .h1{
  font-weight: bold;
+ letter-spacing: 2px;
+}
+.header{
+ background-color: black;
+ color:white;
+
 }
